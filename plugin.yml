@@ -1,0 +1,6 @@
+name: BDJoinMsg
+api: 5.0.0
+main: BDJoinMsg\BobyDev\Join
+version: 1.0.0
+author: BobyDev
+description: "§eSubscribe To Vygofficial"
